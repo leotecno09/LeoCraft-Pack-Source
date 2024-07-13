@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [-59, 2, 45],
+			"translation": [0, -9, 43.5]
+		}
+	}
+}

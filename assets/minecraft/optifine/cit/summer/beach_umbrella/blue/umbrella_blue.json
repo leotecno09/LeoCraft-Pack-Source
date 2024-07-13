@@ -1,0 +1,9 @@
+{
+	"credit": "Re-edited by LeoTecno",
+	"parent": "minecraft:beach_defaults/umbrella",
+	"texture_size": [64, 64],
+	"textures": {
+		"particle": "./umbrella_blue",
+		"texture": "./umbrella_blue"
+	}
+}

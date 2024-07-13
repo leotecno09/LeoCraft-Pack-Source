@@ -1,0 +1,8 @@
+{
+  "credit": "LeoCraft Pack - Cubik Remastered",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "./marshmallow_on_a_stick",
+	"particle": "./marshmallow_on_a_stick"
+  }
+}

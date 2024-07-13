@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/flowering_azalea/block/flowering_azalea0" },
+			{ "model": "block/flowering_azalea/block/flowering_azalea1" },
+			{ "model": "block/flowering_azalea/block/flowering_azalea2" },
+			{ "model": "block/flowering_azalea/block/flowering_azalea3" },
+			{ "model": "block/flowering_azalea/block/flowering_azalea4" }
+			
+        ]
+    }
+}

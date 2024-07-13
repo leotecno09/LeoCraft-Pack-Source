@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/ores/iron/iron_ore" },
+			{ "model": "block/ores/iron/iron_ore_2" }
+		]
+    }
+}

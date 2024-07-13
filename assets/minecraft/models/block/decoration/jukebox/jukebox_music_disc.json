@@ -1,0 +1,9 @@
+{   
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"particle": "block/jukebox_top",
+		"bottom": "block/jukebox_bottom",
+		"top": "block/jukebox_top_music_disc",
+		"side": "block/jukebox_side"
+	}
+}

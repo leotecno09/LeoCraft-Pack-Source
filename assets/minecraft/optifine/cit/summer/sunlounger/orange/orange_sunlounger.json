@@ -1,0 +1,9 @@
+{
+	"credit": "Re-edited by LeoTecno",
+	"parent": "minecraft:beach_defaults/sunlounger",
+	"texture_size": [64, 64],
+	"textures": {
+		"particle": "./orange_sunlounger",
+		"texture": "./orange_sunlounger"
+	}
+}

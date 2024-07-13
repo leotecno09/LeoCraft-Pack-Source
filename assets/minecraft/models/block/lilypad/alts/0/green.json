@@ -1,0 +1,8 @@
+{
+	"__comment": "",
+	"parent": "block/lilypad/alts/0/parent",
+	"textures": {
+		"flower": "block/lilypad/etjq4t35",
+		"yellow": "block/lilypad/etjq4t35"
+	}
+}

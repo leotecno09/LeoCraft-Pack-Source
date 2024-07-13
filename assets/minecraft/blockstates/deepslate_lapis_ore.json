@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/ores/lapis/deepslate_lapis_ore" }
+		]
+    }
+}

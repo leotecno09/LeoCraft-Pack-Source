@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "3d/diamondswordtexture"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [-89, 0, 37],
+			"translation": [0, 0, 40.75]
+		}
+	}
+}

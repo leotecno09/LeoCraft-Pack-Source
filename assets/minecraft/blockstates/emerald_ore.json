@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/ores/emerald/emerald_ore", "_owner": "%USER%" }
+		]
+    }
+}

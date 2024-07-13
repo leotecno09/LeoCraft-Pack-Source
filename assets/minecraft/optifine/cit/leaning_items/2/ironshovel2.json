@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/iron_shovel"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [-71, 9, 44],
+			"translation": [0, -12.25, 40]
+		}
+	}
+}

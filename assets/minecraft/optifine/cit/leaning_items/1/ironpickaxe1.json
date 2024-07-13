@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/iron_pickaxe"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [39, 104, -9],
+			"translation": [0, -7, 38.5]
+		}
+	}
+}

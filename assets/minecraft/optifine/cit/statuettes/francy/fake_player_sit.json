@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:skin/default/fake_player_sit",
+  "textures": {
+    "0": "./player"
+  }
+}

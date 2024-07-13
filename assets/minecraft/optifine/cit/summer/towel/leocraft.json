@@ -1,0 +1,9 @@
+{
+	"credit": "Re-edited by LeoTecno",
+	"parent": "minecraft:beach_defaults/towel",
+	"texture_size": [64, 64],
+	"textures": {
+		"particle": "./leocraft",
+		"texture": "./leocraft"
+	}
+}

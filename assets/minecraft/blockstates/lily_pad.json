@@ -1,0 +1,31 @@
+{
+	"__comment": "Made by LeoTecno",
+    "variants": {
+        "": [
+            { "model": "block/lilypad/lilypad", "weight": 150 },
+            { "model": "block/lilypad/lilypad", "y": 90, "weight": 150 },
+            { "model": "block/lilypad/lilypad", "y": 180, "weight": 150 },
+            { "model": "block/lilypad/lilypad", "y": 270, "weight": 150 },
+			{ "model": "block/lilypad/alts/0/purple", "weight": 4 },
+            { "model": "block/lilypad/alts/0/purple", "y": 90, "weight": 4 },
+            { "model": "block/lilypad/alts/0/purple", "y": 180, "weight": 4 },
+            { "model": "block/lilypad/alts/0/purple", "y": 270, "weight": 4 },
+			{ "model": "block/lilypad/alts/0/orange", "weight": 4 },
+            { "model": "block/lilypad/alts/0/orange", "y": 90, "weight": 4 },
+            { "model": "block/lilypad/alts/0/orange", "y": 180, "weight": 4 },
+            { "model": "block/lilypad/alts/0/orange", "y": 270, "weight": 4 },
+			{ "model": "block/lilypad/alts/0/white", "weight": 8 },
+            { "model": "block/lilypad/alts/0/white", "y": 90, "weight": 8 },
+            { "model": "block/lilypad/alts/0/white", "y": 180, "weight": 8 },
+            { "model": "block/lilypad/alts/0/white", "y": 270, "weight": 8 },
+			{ "model": "block/lilypad/alts/0/green", "weight": 4 },
+            { "model": "block/lilypad/alts/0/green", "y": 90, "weight": 4 },
+            { "model": "block/lilypad/alts/0/green", "y": 180, "weight": 4 },
+            { "model": "block/lilypad/alts/0/green", "y": 270, "weight": 4 },
+			{ "model": "block/lilypad/alts/0/pink", "weight": 4 },
+            { "model": "block/lilypad/alts/0/pink", "y": 90, "weight": 4 },
+            { "model": "block/lilypad/alts/0/pink", "y": 180, "weight": 4 },
+            { "model": "block/lilypad/alts/0/pink", "y": 270, "weight": 4 }
+        ]
+    }
+}

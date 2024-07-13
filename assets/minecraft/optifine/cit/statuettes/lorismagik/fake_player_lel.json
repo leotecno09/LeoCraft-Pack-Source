@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:skin/default/fake_player_lel",
+  "textures": {
+    "0": "./player"
+  }
+}

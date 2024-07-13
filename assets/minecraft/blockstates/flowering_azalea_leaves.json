@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/flowering_azalea_leaves/block/0" },
+			{ "model": "block/flowering_azalea_leaves/block/1" },
+			{ "model": "block/flowering_azalea_leaves/block/2" },
+			{ "model": "block/flowering_azalea_leaves/block/3" },
+			{ "model": "block/flowering_azalea_leaves/block/4" }
+			
+        ]
+    }
+}
